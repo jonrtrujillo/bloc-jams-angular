@@ -1,0 +1,26 @@
+{
+  "name": "bjams",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jt",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonrtrujillo/bloc-jams-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonrtrujillo/bloc-jams-angular/issues"
+  },
+  "homepage": "https://github.com/jonrtrujillo/bloc-jams-angular#readme"
+}
