@@ -1,6 +1,7 @@
 (function() {
-     function AlbumCtrl() {
-        
+     function AlbumCtrl($scope) {
+       $scope.albumData = albumPicasso;
+      console.log($scope)
      }
 
      angular
